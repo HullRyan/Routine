@@ -11,6 +11,8 @@
 - 
 
 # Psychology
-- [Stages of Competence](https://upload.wikimedia.org/wikipedia/commons/5/5d/Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.jpg)
+- [Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 
+
+![](https://en.wikipedia.org/wiki/Four_stages_of_competence#/media/File:Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg)
 
 
