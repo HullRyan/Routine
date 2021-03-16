@@ -12,7 +12,7 @@
 
 # Psychology
 - [Stages of Competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) 
+    - [Stages Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.jpg/640px-Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.jpg)
 
-![](https://en.wikipedia.org/wiki/Four_stages_of_competence#/media/File:Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg)
-
-
+# Health
+- [Benefits of Routine](https://www.nm.org/healthbeat/healthy-tips/health-benefits-of-having-a-routine)
