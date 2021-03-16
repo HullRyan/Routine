@@ -2,7 +2,7 @@
 This project is a collection of resources on the benefits and effectiveness of daily/ continued development and routines.
 
 ## Goals
-- The goals of this project is to provide a way to help with routines for self improvement on the aspect on learning and health.
+- The goals of this project is to provide a way to help with routines for self improvement on the aspect of learning and health.
 - Using timers and reminders currated on your phone for:
     - Professional Work
     - Personal Work
